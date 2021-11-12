@@ -1,19 +1,30 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{   
+  "contato": [
+      {
+          "id": "id",
+          "nome": "nome",
+          "idade": "idade",
+          "numero": "numero"
+      },
+      {
+      "id": 1,    
+      "nome": "Maverick",
+      "idade": 88,
+      "numero": 8199771733
+      },
+      {
+          "id": 2,    
+          "nome": "CaradoDooom",
+          "idade": 109,
+          "numero": 98787423
+          },
+          {
+              "id": 3,    
+              "nome": "CaraSério",
+              "idade": 40,
+              "numero": 987521
+              }
+
+
+  ]
 }

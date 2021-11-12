@@ -1,13 +1,11 @@
-[Ingles] 
+[English]
 
-Introdução:
+Introduction:
 
-Primeiramente para que voce possa executar esse app, voce precisa baixar esse repositorio clickando no botao de download e logo apos isso extrair o arquivo.
-
-
-Segundamente devemos executar esse comando no terminal  da pasta que voce baixou do meu projeto no seu computador para que a API do site possa executar: json-server db.json (mas porque fazer isso???? - Para que o app que eu criei funcione :D )
+First, for you to run this app, you need to download this repository by clicking on the download button and then extract the file.
 
 
+Second, we must run this command in the terminal of the folder you downloaded from my project on your computer so that the site's API can run: json-server db.json --port 3004 (but why do that???? - For the app I created work :D)
 
 
 # Getting Started with Create React App
