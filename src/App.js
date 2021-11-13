@@ -59,7 +59,7 @@ function App() {
           })}
         </article>
       </div>
-    </section>
+  </section>
   )
 }
 
