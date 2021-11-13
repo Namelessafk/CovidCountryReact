@@ -5,7 +5,7 @@ Introduction:
 First, for you to run this app, you need to download this repository by clicking on the download button and then extract the file.
 
 
-Second, we must run this command in the terminal of the folder you downloaded from my project on your computer so that the site's API can run: json-server db.json --port 3004 (but why do that???? - For the app I created work :D)
+Second, we must run this command in the terminal of the folder you downloaded from my project on your computer so that the site API can run: "npm install" and then "json-server db.json --port 3004 (but by to do this ???? - For the app I created to work: D)
 
 
 # Getting Started with Create React App

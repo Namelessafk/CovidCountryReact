@@ -1,30 +1,46 @@
-{   
-  "contato": [
-      {
-          "id": "id",
-          "nome": "nome",
-          "idade": "idade",
-          "numero": "numero"
-      },
-      {
-      "id": 1,    
-      "nome": "Maverick",
-      "idade": 88,
-      "numero": 8199771733
-      },
-      {
-          "id": 2,    
-          "nome": "CaradoDooom",
-          "idade": 109,
-          "numero": 98787423
-          },
-          {
-              "id": 3,    
-              "nome": "CaraSério",
-              "idade": 40,
-              "numero": 987521
-              }
+{
 
+    "Countries":[
 
+        {"ID":"1",
+        "Country":"Global",
+        "infos":[
+        "NewConfirmed: 572481",
+        "TotalConfirmed: 251050437",
+        "NewDeaths: 8107",
+        "TotalDeaths: 5068822",
+        "NewRecovered: 0",
+        "TotalRecovered: 0"
+        ],
+        "Date":"2021-11-12T00:37:34.925Z",
+        "Premium":{}},
+
+        {"ID":"2",
+        "Country":"Afghanistan",
+        "infos":[
+        "NewConfirmed:17",
+        "TotalConfirmed:156414",
+        "NewDeaths:1",
+        "TotalDeaths:7291",
+        "NewRecovered:0",
+        "TotalRecovered:0"
+        ],
+        "Date":"2021-11-12T00:37:34.925Z",
+        "Premium":{}},
+
+        {"ID":"3",
+        "Country":"Albania",
+        "CountryCode":"AL",
+        "Slug":"albania",
+        "NewConfirmed":690,
+        "TotalConfirmed":190815,
+        "NewDeaths":5,
+        "TotalDeaths":2975,
+        "NewRecovered":0,
+        "TotalRecovered":0,
+        "Date":"2021-11-12T00:37:34.925Z",
+        "Premium":{}}
+
+    
   ]
 }
