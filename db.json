@@ -12,7 +12,7 @@
         "NewRecovered: 0",
         "TotalRecovered: 0"
         ],
-        "Date":"2021-11-12T00:37:34.925Z",
+        "Date":"12/11/2021",
         "Premium":{}},
 
         {"ID":"2",
@@ -25,21 +25,104 @@
         "NewRecovered:0",
         "TotalRecovered:0"
         ],
-        "Date":"2021-11-12T00:37:34.925Z",
+        "Date":"12/11/2021",
         "Premium":{}},
 
         {"ID":"3",
-        "Country":"Albania",
-        "CountryCode":"AL",
-        "Slug":"albania",
-        "NewConfirmed":690,
-        "TotalConfirmed":190815,
-        "NewDeaths":5,
-        "TotalDeaths":2975,
-        "NewRecovered":0,
-        "TotalRecovered":0,
-        "Date":"2021-11-12T00:37:34.925Z",
-        "Premium":{}}
+        "Country":"Bolivia",
+        "infos":[
+        "NewConfirmed:799",
+        "TotalConfirmed:519669",
+        "NewDeaths:6",
+        "TotalDeaths:18976",
+        "NewRecovered:0",
+        "TotalRecovered:0"],
+        "Date":"12/11/2021",
+        "Premium":{}},
+
+        {"ID":"4",
+        "Country":"Brazil",
+        "infos":[
+          "NewConfirmed:12273",
+          "TotalConfirmed:21909298",
+          "NewDeaths:280",
+          "TotalDeaths:610036",
+          "NewRecovered:0",
+          "TotalRecovered:0"],
+        "Date":"12/11/2021",
+        "Premium":{}},
+
+        {"ID":"5",
+        "Country":"Ethiopia",
+        "infos":[
+        "NewConfirmed:210",
+        "TotalConfirmed:367857",
+        "NewDeaths:11",
+        "TotalDeaths:6572",
+        "NewRecovered:0",
+        "TotalRecovered:0"],
+        "Date":"12/11/2021",
+        "Premium":{}},
+          
+        {"ID":"6",
+        "Country":"Lithuania",
+        "infos":[
+        "NewConfirmed:3178",
+        "TotalConfirmed:434033",
+        "NewDeaths:39",
+        "TotalDeaths:6214",
+        "NewRecovered:0",
+        "TotalRecovered:0"],
+        "Date":"12/11/2021",
+        "Premium":{}},
+
+        {"ID":"7",
+        "Country":"Kazakhstan",
+        "infos":[
+        "NewConfirmed:1395",
+        "TotalConfirmed:1033639",
+        "NewDeaths:32",
+        "TotalDeaths:17396",
+        "NewRecovered:0",
+        "TotalRecovered:0"],
+        "Date":"12/11/2021",
+        "Premium":{}},
+
+        {"ID":"8",
+        "Country":"Mozambique",
+        "infos":[
+        "NewConfirmed:8",
+        "TotalConfirmed:151390",
+        "NewDeaths:0",
+        "TotalDeaths:1934",
+        "NewRecovered:0",
+        "TotalRecovered:0"],
+        "Date":"12/11/2021",
+        "Premium":{}},
+
+        {"ID":"9",
+        "Country":"Portugal",
+        "infos":[
+          "NewConfirmed:1654",
+          "TotalConfirmed:1100961",
+          "NewDeaths:5",
+          "TotalDeaths:18222",
+          "NewRecovered:0",
+          "TotalRecovered:0"],
+          "Date":"12/11/2021",
+          "Premium":{}},
+          
+          {"ID":"10",
+          "Country":"Suriname",
+          "infos":[
+          "NewConfirmed:90",
+          "TotalConfirmed:49902",
+          "NewDeaths:4",
+          "TotalDeaths:1126",
+          "NewRecovered:0",
+          "TotalRecovered:0"],
+          "Date":"12/11/2021",
+          "Premium":{}}
 
     
   ]
